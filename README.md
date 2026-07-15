@@ -269,9 +269,20 @@ Todos los endpoints de escaneo e historial requieren el header `Authorization: B
 
 ---
 
-## 📄 Licencia
+## ⚖️ Licencia y Uso Comercial (Dual License)
 
-Distribuido bajo la licencia **MIT**. Ver `LICENSE` para más detalles.
+El código fuente de OWASP Inspector está disponible públicamente bajo un modelo de licenciamiento dual para fines educativos, de investigación académica y pruebas personales.
+
+**Queda estrictamente prohibido bajo esta licencia pública:**
+* La comercialización, reventa o distribución de este software como servicio (SaaS/PaaS).
+* El uso de esta plataforma para auditorías internas, escaneos de red o integración CI/CD en entornos corporativos, empresariales o gubernamentales.
+* La integración o modificación de este código base para crear productos comerciales de terceros.
+
+**Licencias Comerciales B2B:**
+Si representas a una empresa, consultora o equipo Red/Blue Team y deseas utilizar OWASP Inspector para entornos de producción, auditorías a clientes o integrarlo en tu infraestructura empresarial, debes adquirir una licencia comercial corporativa.
+
+📩 Para solicitar una licencia comercial o discutir casos de uso corporativos, contáctame directamente a través de: 
+https://www.linkedin.com/in/nmasot/ o por email a nico.masot@gmail.com
 
 ---
 
